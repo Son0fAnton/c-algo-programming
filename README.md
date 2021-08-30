@@ -1,2 +1,2 @@
-# c-algo-programming
+# Algorithms
 list of all my algorithms
